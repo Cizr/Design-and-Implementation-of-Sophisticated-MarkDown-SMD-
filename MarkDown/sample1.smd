@@ -1,0 +1,19 @@
+#def @date(" "){
+<span>*$1*-$2-_$3_</span>
+}
+
+#def @clr("|"){
+<span style="color:$1">$2</span>
+}
+
+#def @underline(""){
+<span style="text-decoration: underline;">$0</span>
+}
+
+La ville de $ville
+
+La journée du @clr{blue|@date{11 novembre 2023}} sera ensoleillée. Des *rafales de vents* atteindront @clr{red|40km/h}.
+Les températures seront de 25°, mais il faut prévoir _un matin plus frais_.
+
+
+Pour @underline{plus d'information}, vous êtes aimablement invités à visiter [notre site](meteo.dz).
