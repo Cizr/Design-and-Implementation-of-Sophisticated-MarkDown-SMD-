@@ -1,6 +1,6 @@
-# Sophisticated MarkDown (SMD) - An Evolution of Markdown
+# Sophisticated MarkDown (SMD) - An Evolution of Markdown (CODE IN PLY FILE)
 
-## Introduction
+## Introduction 
 
 Markdown (MD) is a straightforward formatting language designed for quickly styling text for online display. It offers simplified constructs for text formatting, such as bold, italic, hyperlinks, headings, lists, and more. While its base syntax is minimalistic, various flavors of Markdown exist. These flavors provide advanced functionalities but often lack standard support, necessitating extensions.
 
